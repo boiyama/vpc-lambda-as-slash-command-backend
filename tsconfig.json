@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "lib": [
+      "es2015",
+      "es2016",
+      "es2017",
+      "es2018",
+      "esnext",
+      "dom"
+    ],
+    "module": "commonjs",
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2018"
+  }
+}

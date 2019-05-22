@@ -1,0 +1,6 @@
+dist/
+node_modules/
+terraform/.terraform/
+terraform/code.zip
+terraform/terraform.tfplan
+terraform/terraform.tfstate.backup
